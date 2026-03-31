@@ -1,16 +1,17 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=800&color=00FFAA&center=true&vCenter=true&width=700&lines=⚡+SYSTEM+INITIALIZING...;🎮+LOADING+GAME+ENGINE...;🔥+RENDERING+REALITY...;💻+CODE+IN+PROGRESS...;🚀+READY+TO+DEPLOY..." />
+</p>
 
-<!--
-**viper004/viper004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="600"/>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-00ff00?style=for-the-badge&logo=power&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MODE-GAMING-ff0080?style=for-the-badge&logo=gamepad&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ENGINE-RUNNING-00c3ff?style=for-the-badge&logo=windows-terminal&logoColor=black"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFAA,100:000000&height=120&section=footer"/>
+</p>
